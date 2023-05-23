@@ -1,6 +1,9 @@
 # bcts-reports
 BC Timber Sales (BCTS) data reporting
 
+# Project Lifecycle
+[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
+
 # Usage
 Source control to track changes and current versions of queries for BCTS reports.
 
